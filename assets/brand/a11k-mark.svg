@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
+  <title>A11-K logo</title>
+  <rect x="4" y="4" width="40" height="40" rx="6" fill="#08100D"/>
+  <path d="M13 13h9v9h-9zM26 13h9v9h-9zM13 26h9v9h-9z" stroke="#A4F4C3" stroke-width="2.5"/>
+  <path d="M26 35V26h9" stroke="#4E8DFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="35" cy="26" r="3" fill="#A4F4C3"/>
+</svg>
